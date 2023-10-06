@@ -1,2 +1,0 @@
-# nuoripadawan.github.io
-höhöhöhöhöhöhöhöhöhöhöhöhöhö
