@@ -49,6 +49,8 @@ button {
   backgroundc-color: red;
   color: black;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 
