@@ -23,15 +23,16 @@ p {
 }
 
 table {
-  background-color: red;
+  background-color: white;
+  text-align: center;
 }
 th {
   color: red;
-  font-size: 50px
-  text-align: center;
+  font-size: 50px;
+
 }
 td { 
     color: red;
-  font-size: 50px
-  text-align: center;
+  font-size: 50px;
+
 }
