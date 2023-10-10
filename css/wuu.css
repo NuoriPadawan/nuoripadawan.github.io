@@ -25,14 +25,6 @@ p {
 table {
   background-color: white;
   text-align: center;
+  font-family: consolas;
 }
-th {
-  color: red;
-  font-size: 50px;
 
-}
-td { 
-    color: red;
-  font-size: 50px;
-
-}
