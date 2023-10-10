@@ -27,6 +27,15 @@ table, th, td {
   text-align: center;
   font-family: consolas;
   border: 3px solid;
+  border-collapse: collapse;
   color: red;
+}
+th { 
+  color: red;
+  text-align: center;
+}
+td {
+  color: red; 
+  text-align: center;
 }
 
