@@ -21,6 +21,10 @@ p {
   font-size: 25px;
   text-align: center;
 }
+
+table {
+  background-color: red;
+}
 th {
   color: red;
   font-size: 50px
