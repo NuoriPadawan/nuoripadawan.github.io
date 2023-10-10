@@ -45,17 +45,12 @@ td {
  margin-left: auto;
   margin-right: auto;
 }
-.button {
+button {
   backgroundc-color: purple;
   color: white;
   text-align: center;
 
 }
-
-
-
-
-
 img:hover {
   /* Start the shake animation and make the animation last for 0.5 seconds */
   animation: shake 0.5s;
