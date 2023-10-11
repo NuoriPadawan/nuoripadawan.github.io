@@ -35,11 +35,11 @@ table, th, td {
 
 }
 th { 
-  color: red;
+  color: black;
   text-align: center;
 }
 td {
-  color: red; 
+  color: black; 
   text-align: center;
 }
 .center {
